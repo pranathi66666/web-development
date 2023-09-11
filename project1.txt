@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet"
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+integrity="sha384-
+JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+crossorigin="anonymous">
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-
+DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+crossorigin="anonymous"></script>
+ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+integrity="sha384-
+9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+crossorigin="anonymous"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+integrity="sha384-
+B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+crossorigin="anonymous"></script>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div class="bg-container ml-2">
+ <h1 class="heading">WEB DEVELOPMENT(1 STOP)</h1>
+ <div>
+ <div class="container1">
+
+ <h1>HTML</h1>
+ <P>HTML is a frontend language.With HTML you can create your own website.It
+can be assisted by technologies such as cascading style sheet and scripting language.HTML
+elements are the building blocks of HTML pages. With HTML constructs, images and other
+objects such as interactive forms may be embedded into the rendered page. HTML provides a
+means to create structured documents by denoting structural semantics for text such as
+headings, paragraphs, lists, links, quotes, and other items. HTML elements are delineated by
+tags, written using angle brackets. Tags such as img and input directly introduce content into
+the page. Other tags such as <p> surround and provide information about document text and
+may include other tags as sub-elements. Browsers do not display the HTML tags but use
+them to interpret the content of the page.</P>
+ <style>
+ img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+ </style>
+ <img src="https://www.shutterstock.com/image-photo/html-inscription-againstlaptop-code-260nw-1851522412.jpg" class="image" />
+ </div>
+ <div class="container1">
+
+ <h1>JAVA SCRIPT</h1>
+ <P>JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented
+language with first-class functions, and is best known as the scripting language for Web
+pages, but it's used in many non-browser environments as well.JavaScript is a high-level,
+often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has
+dynamic typing, prototype-based object-orientation, and first-class functions. It is multiparadigm, supporting event-driven, functional, and imperative programming styles. It has
+application programming interfaces (APIs) for working with text, dates, regular expressions,
+standard data structures, and the Document Object Model (DOM).</P>
+ <img src="https://www.shutterstock.com/image-vector/javascript-programminglanguage-script-code-260nw-1062509657.jpg" class="image" />
+ </div>
+ <div class="container1">
+ <h1>CSS</h1>
+ <P>Cascading Style Sheets (CSS) is a stylesheet language used to describe the
+presentation of a document written in HTML or XML (including XML dialects such as SVG,
+MathML or XHTML). CSS describes how elements should be rendered on screen, on paper,
+in speech, or on other media.CSS is designed to enable the separation of content and
+presentation, including layout, colors, and fonts.[3] This separation can improve content
+accessibility; provide more flexibility and control in the specification of presentation
+characteristics; enable multiple web pages to share formatting by specifying the relevant CSS
+in a separate .css file, which reduces complexity and repetition in the structural content; and
+enable the .css file to be cached to improve the page load speed between the pages that share
+the file and its formatting.</P>
+ <img
+src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAAB
+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" class="image mb-2" />
+
+ </div>
+ </div>
+ <div class="d-flex flex-row justify-content-center">
+ <div class="mb-2 mr-2">
+ <input type="text" placeholder="username" />
+ </div>
+ <div class="mb-2">
+ <input type="text" placeholder="password" />
+ </div>
+ </div>
+ <div class="d-flex flex-row justify-content-center">
+ <button class="btn btn-primary">signup</button>
+ </div>
+ </div>
+</body>
+</html>
+CSS STYLING CODE:
+ @import
+url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&f
+amily=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&
+family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,w
+ght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Sourc
+e+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700
+&display=swap');
+.heading {
+ text-align: center;
+ font-size: 60px;
+ font-family: Roboto;
+ font-weight: bold;
+}
+.container1 {}
+.image {
+ height: 180px;
+}
+body {
+ background-color: rgb(211, 197, 204);
+ }
+ h1 {
+ color: rgb(32, 0, 128);
+ }
